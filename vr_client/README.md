@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Appdoct Project & Developer recommedation system
 
-In the project directory, you can run:
+해보자 SCI~
 
 ### `yarn start`
 
