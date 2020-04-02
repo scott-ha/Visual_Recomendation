@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Developer from './components/developer';
+import Progressbar from './components/progressbar';
 import './App.css';
 import Paper from '@material-ui/core/Paper'
 import Table from '@material-ui/core/Table';
@@ -83,6 +84,7 @@ class App extends Component {
             }
           </TableBody>
         </Table>
+        <Progressbar />
       </Paper>
     );
   }
